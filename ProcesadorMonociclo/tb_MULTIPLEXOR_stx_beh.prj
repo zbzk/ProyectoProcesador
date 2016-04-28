@@ -1,0 +1,2 @@
+vhdl isim_temp "MULTIPLEXOR.vhd"
+vhdl isim_temp "tb_MULTIPLEXOR.vhd"

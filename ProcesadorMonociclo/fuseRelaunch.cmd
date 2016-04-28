@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/tb_PROCESAOR_isim_beh.exe" -prj "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/tb_PROCESAOR_beh.prj" "work.tb_PROCESAOR" 
