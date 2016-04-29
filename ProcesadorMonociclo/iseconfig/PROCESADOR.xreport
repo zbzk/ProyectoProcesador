@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2016-04-28T14:24:03</DateModified>
+  <DateModified>2016-04-28T18:47:45</DateModified>
   <ModuleName>PROCESADOR</ModuleName>
-  <SummaryTimeStamp>Unknown</SummaryTimeStamp>
+  <SummaryTimeStamp>2016-04-28T15:47:48</SummaryTimeStamp>
   <SavedFilePath>C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/iseconfig/PROCESADOR.xreport</SavedFilePath>
   <ImplementationReportsDirectory>C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo\</ImplementationReportsDirectory>
   <DateInitialized>2016-04-27T14:09:38</DateInitialized>

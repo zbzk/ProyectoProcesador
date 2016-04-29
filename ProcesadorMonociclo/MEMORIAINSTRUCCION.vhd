@@ -55,7 +55,7 @@ type rom_type is array (0 to 31) of std_logic_vector (31 downto 0);
 		return temp_mem;
 	end function;
 	
-	signal instructions : rom_type := InitRomFromFile("program2.data");
+	signal instructions : rom_type := InitRomFromFile("programa1.data");
 
 begin
    process(reset,MIentrada, instructions)

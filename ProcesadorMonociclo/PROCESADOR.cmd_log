@@ -1,3 +1,7 @@
 xst -intstyle ise -ifn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.xst" -ofn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.syr" 
 xst -intstyle ise -ifn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.xst" -ofn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.syr" 
 xst -intstyle ise -ifn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.xst" -ofn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.syr" 
+xst -intstyle ise -ifn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.xst" -ofn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.syr" 
+xst -intstyle ise -ifn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.xst" -ofn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "PROCESADOR.ngc" PROCESADOR.ngd  
+xst -intstyle ise -ifn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.xst" -ofn "C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/PROCESADOR.syr" 

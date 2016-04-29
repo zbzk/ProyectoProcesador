@@ -34,5 +34,5 @@ Time Resolution for simulation is 1ps.
 Waiting for 7 sub-compilation(s) to finish...
 Compiled 24 VHDL Units
 Built simulation executable C:/P1P3 ZaBuZa/UTP 1er SEMESTRE 2015/ARQ DE COMPUTADORES/Xilinx/ProcesadorMonociclo/tb_PROCESAOR_isim_beh.exe
-Fuse Memory Usage: 34400 KB
-Fuse CPU Usage: 1249 ms
+Fuse Memory Usage: 34368 KB
+Fuse CPU Usage: 1108 ms

@@ -2,7 +2,7 @@
 -- Company: 
 -- Engineer: 
 -- 
--- Create Date:    19:56:00 04/26/2016 
+-- Create Date:    14:54:06 04/21/2016 
 -- Design Name: 
 -- Module Name:    UC - ArqProcesador 
 -- Project Name: 
@@ -39,6 +39,41 @@ architecture ArqProcesador of UC is
 
 begin
 
+   process(op, op3)
+	begin
+	
+   	if(op = "10")then				
+						case op3 is
+							when "000000" => -- ADD
+							   alu_op <= "000000";
+								
+							when "000001" => -- AND
+							   alu_op <= "000001";
+								
+							when "000010" => -- OR
+							   alu_op <= "000010";
+							
+							when "000011" => -- XOR
+							   alu_op <= "000011";
+								 
+							when "000100" => -- SUB
+							   alu_op <= "000100";
+																
+							when "000101" => -- ANDN
+							   alu_op <= "000101";
+															 
+							when "000110" => -- ORN
+							   alu_op <= "000110";
+								 
+						   when "000111" => -- XORN
+							   alu_op <= "000111";
+							
+							when others => 
+							   alu_op <= "000000";
+								 
+					   end case;
+		end if;
+   end process;
 
 end ArqProcesador;
 

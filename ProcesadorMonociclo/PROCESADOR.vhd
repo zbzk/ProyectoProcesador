@@ -94,7 +94,6 @@ end component;
 
 signal SUMADOR_nPC : std_logic_vector (31 downto 0);--  := (others => '0');
 signal nPC_PC : std_logic_vector (31 downto 0);--  := (others => '0');
-signal nPC_SUMADOR : std_logic_vector (31 downto 0);--  := (others => '0');
 
 signal PC_MEMORIAINSTRUCCION : std_logic_vector (31 downto 0);--  := (others => '0');
 signal MEMORIAINSTRUCCION_MULTIPLE : std_logic_vector (31 downto 0);--  := (others => '0');
